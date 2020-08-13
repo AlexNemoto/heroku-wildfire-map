@@ -7,7 +7,7 @@ import numpy as np
 import pickle
 
 # Instansiate Flask
-app = Flask(__name__)
+app = Flask(__name__, static_folder='static')
 
 # Googlemap API key
 # Fill '' with your api key
