@@ -169,7 +169,6 @@ py==1.8.0
 pyarrow==1.0.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.7
-PyAudio==0.2.11
 pycodestyle==2.5.0
 pycosat==0.6.3
 pycparser==2.19
@@ -181,7 +180,6 @@ pyflakes==2.1.1
 Pygments==2.4.2
 PyJWT==1.7.1
 pylint==2.4.2
-pymc3==3.8
 pyodbc==4.0.27
 pyOpenSSL==19.0.0
 pyparsing==2.4.2
@@ -252,10 +250,6 @@ subprocess32==3.5.4
 sympy==1.4
 tables==3.5.2
 tblib==1.4.0
-tensorboard==2.2.1
-tensorboardX==2.1
-tensorflow==2.1.0
-tensorflow-estimator==2.1.0
 termcolor==1.1.0
 terminado==0.8.2
 testpath==0.4.2
