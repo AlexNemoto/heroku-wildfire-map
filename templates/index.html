@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Menu</title>
+    </head>
+    <body>
+        <h1>This website shows you a wildfire map on a specific date.</h1>
+        <h2>Pick a date</h2>
+
+        <form name="date-send" method="POST" action="map">
+            <select name= date>
+            {% for date in dates %}
+            <option value= "{{date}}" SELECTED>{{date}}</option>"
+            {% endfor %}
+            </select>
+
+            <br>
+
+            <button type="submit" name="submit" value="send" class="btn btn-default">Send</button>
+        </form>
+    </body>
+</html>
