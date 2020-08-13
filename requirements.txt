@@ -37,14 +37,9 @@ cftime==1.1.2
 chardet==3.0.4
 Click==7.0
 cloudpickle==1.2.2
-clyent==1.2.2
 coala-utils==0.5.1
 colorama==0.4.1
 comtypes==1.1.7
-conda==4.8.3
-conda-build==3.18.9
-conda-package-handling==1.6.0
-conda-verify==3.4.2
 configparser==5.0.0
 contextlib2==0.6.0
 cryptography==2.7
