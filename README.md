@@ -72,5 +72,5 @@ Although this app is able to calculate the possibility of a wildfire occuring in
 - [Maps Javascript API](https://developers.google.com/)
 - [Heroku](https://www.heroku.com/)
 
-* Kiran, Z., Muhammad, I., & Frank, O. O. (2020). Automatic identification of eyewitness messages on twitter during disasters. Information Procession & Management.
+Kiran, Z., Muhammad, I., & Frank, O. O. (2020). Automatic identification of eyewitness messages on twitter during disasters. Information Procession & Management.
 
