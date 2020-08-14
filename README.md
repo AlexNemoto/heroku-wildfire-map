@@ -13,7 +13,7 @@ A modeling data set was compiled using wildfire Tweets from CrisisLex.org (https
 
 ## Data Dictionary 
 
-A data dictionary was compiled to explain the data set [(cleaned_train_data.csv)](./data/cleaned_train_data.csv).
+A data dictionary was compiled to explain the data set ([cleaned_train_data.csv](./data/cleaned_train_data.csv)).
 
 |Feature|Type|Description|
 |---|---|---|
@@ -51,7 +51,7 @@ Main Architectual Parts
 - The library to use Google Maps is [googlemaps](https://github.com/googlemaps/google-maps-services-python).
 - [App URL](https://demo-meat-213.herokuapp.com/)(This app instance will be discarded after finishing the presentation on 2020-08-17).
 
-- A data dictionary for mapping is below [(mapping_for_app.csv)](./data/mapping_for_app.csv).
+- A data dictionary for mapping is below ([mapping_for_app.csv)](./data/mapping_for_app.csv)).
 
 |Feature|Type|Description|
 |---|---|---|
@@ -72,4 +72,5 @@ Although this app is able to calculate the possibility of a wildfire occuring in
 - [Maps Javascript API](https://developers.google.com/)
 - [Heroku](https://www.heroku.com/)
 
-* Kiran, Z., Muhammad, I., & Frank, O. O. (2020). Automatic identification of eyewitness messages on twitter during disasters. *Information Procession & Management.
+* Kiran, Z., Muhammad, I., & Frank, O. O. (2020). Automatic identification of eyewitness messages on twitter during disasters. Information Procession & Management.
+
